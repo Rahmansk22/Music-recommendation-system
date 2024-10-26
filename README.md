@@ -1,5 +1,4 @@
 # Emotion based Music Recommender System
-
 ## Contributors :
 
   * Rahman Sk
